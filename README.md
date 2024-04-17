@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Welcome to my data universe! I am Tanishq Sharma, a dedicated data science graduate student with a profound enthusiasm for deciphering complex data puzzles. Armed with a robust academic foundation in Machine Learning and Computer Vision, I possess a proficient command of Python, R, MATLAB, and SQL, empowering me to transform raw data into actionable insights and solve complex real-world problems.
+Welcome!!! I am Tanishq Sharma, a dedicated data science graduate student with a profound enthusiasm for deciphering complex data puzzles. Armed with a robust academic foundation in Machine Learning and Statistical Modelling, I possess a proficient command of Python, R, MATLAB, and SQL, empowering me to transform raw data into actionable insights and solve complex real-world problems.
 
 Driven by an insatiable curiosity, I actively seek opportunities to leverage my analytical skills and domain knowledge in data science to tackle real-world challenges. My commitment to excellence, coupled with my passion for continuous learning, fuels my quest for innovative solutions and ensures my contributions make a meaningful impact.
 
@@ -10,9 +10,11 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 
 ### 🌟 Project 1: Predictive Modeling for Online Article Popularity 
 
-- **Mission:** [Brief description of the project's objective and its impact].
-- **Tools of the Trade:** [List of tools and libraries that powered the project's success].
-- **Key Discoveries:** [Highlight the most exciting findings or outcomes].
+- **Mission:** Predicting the number of times an article would be shared(Popularity).
+- **Methodology**: Handled a Poisson-distributed target variable in a dataset of 450,000 rows and 60 features.
+                   Used linear regression, lasso regression, XGBoost, AdaBoost, and Artifical Neural Networks to train the model.
+                   Utilized Bootsrap Hypothesis testing to ensure robustness of the final Neural Network model, achieving an MSE of 0.35.
+- **Impact**: The project's findings provide valuable insights into factors influencing article popularity, aiding content creators and marketers in optimizing their strategies for maximum engagement.
 
 ### 🚀 Project 2: Real-Time Pothole Detection Using Machine Learning 
 
@@ -46,7 +48,7 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 
 ### 🎯 Project 7: Real-Time Cryptocurrency Insights: Automated ETL for Dynamic Reporting
 
-- **Mission:** This project focuses on creating an automated ETL pipeline to extract, transform, and load real-time cryptocurrency data into a reporting system. The pipeline collects data from multiple cryptocurrency exchanges and sources, transforms it into a unified format, and loads it into a database for analysis and reporting. The goal is to provide users with up-to-date insights into cryptocurrency prices, trading volumes, and market trends.
+- This project focuses on creating an automated ETL pipeline to extract, transform, and load real-time cryptocurrency data into a reporting system. The pipeline collects data from multiple cryptocurrency exchanges and sources, transforms it into a unified format, and loads it into a database for analysis and reporting. The goal is to provide users with up-to-date insights into cryptocurrency prices, trading volumes, and market trends.
 
 ## 💡 Skills That Illuminate My Path
 
