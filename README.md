@@ -11,9 +11,9 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 ### 🌟 Project 1: Predictive Modeling for Online Article Popularity 
 
 - **Mission:** Predicting the number of times an article would be shared(Popularity).
-- **Methodology**: <p>- Handled a Poisson-distributed target variable in a dataset of 450,000 rows and 60 features.</p>
-                   <p>- Used linear regression, lasso regression, XGBoost, AdaBoost, and Artifical Neural Networks to train the model.</p>
-                   <p>- Utilized Bootsrap Hypothesis testing to ensure robustness of the final Neural Network model, achieving an MSE of 0.35.</p>
+- **Methodology:** - Handled a Poisson-distributed target variable in a dataset of 450,000 rows and 60 features.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Used linear regression, lasso regression, XGBoost, AdaBoost, and Artifical Neural Networks to train the model.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Utilized Bootsrap Hypothesis testing to ensure robustness of the final Neural Network model, achieving an MSE of 0.35.
 - **Impact**: Provides insights about factors influencing article popularity, aiding content creators and marketers in optimizing their strategies for maximum engagement.
 
 ### 🚀 Project 2: Real-Time Pothole Detection Using Machine Learning 
