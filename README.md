@@ -13,14 +13,14 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 - **Mission:** Predicting the number of times an article would be shared(Popularity).
 - **Methodology:** - Handled a Poisson-distributed target variable in a dataset of 450,000 rows and 60 features.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Used linear regression, lasso regression, XGBoost, AdaBoost, and Artifical Neural Networks to train the model.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Utilized Bootsrap Hypothesis testing to ensure robustness of the final Neural Network model, achieving an MSE of 0.35.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Utilized Bootsrap Hypothesis testing to ensure robustness of Neural Network model, achieving an MSE of 0.35.
 - **Impact**: Provides insights about factors influencing article popularity, aiding content creators and marketers in optimizing their strategies for maximum engagement.
 
 ### 🚀 Project 2: Real-Time Pothole Detection Using Machine Learning 
 
 - **Mission:** Develop a Real-Time Pothole Detection system using a camera, utilizing Machine Learning to improve road safety and facilitate maintenance.
 - **Methodology:** - Compiled an extensive pothole image dataset using data augmentation techniques.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Trained RCNN and YOLO variants, achieving 97% precision and 0.85 mAP@0.5 with 13 ms per frame inference time.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Trained RCNN,YOLOv5,6,7 variants, achieving 97% precision and 0.85 mAP@0.5 with inference time of 13ms.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Deployed models on NVIDIA Jetson Xavier NX and Nano equipped with a camera for a portable pothole detection device.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Implemented a system to upload pothole images and GPS coordinates of detected pothole to a cloud database.
 - **Impact:** Provides a efficient solution for identifying potholes, enabling timely maintenance and potentially reducing road hazards.
