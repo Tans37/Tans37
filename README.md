@@ -11,10 +11,10 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 ### 🌟 Project 1: Predictive Modeling for Online Article Popularity 
 
 - **Mission:** Predicting the number of times an article would be shared(Popularity).
-- **Methodology**: Handled a Poisson-distributed target variable in a dataset of 450,000 rows and 60 features.
-                   Used linear regression, lasso regression, XGBoost, AdaBoost, and Artifical Neural Networks to train the model.
-                   Utilized Bootsrap Hypothesis testing to ensure robustness of the final Neural Network model, achieving an MSE of 0.35.
-- **Impact**: The project's findings provide valuable insights into factors influencing article popularity, aiding content creators and marketers in optimizing their strategies for maximum engagement.
+- **Methodology**: <p>- Handled a Poisson-distributed target variable in a dataset of 450,000 rows and 60 features.</p>
+                   <p>- Used linear regression, lasso regression, XGBoost, AdaBoost, and Artifical Neural Networks to train the model.</p>
+                   <p>- Utilized Bootsrap Hypothesis testing to ensure robustness of the final Neural Network model, achieving an MSE of 0.35.</p>
+- **Impact**: Provides insights about factors influencing article popularity, aiding content creators and marketers in optimizing their strategies for maximum engagement.
 
 ### 🚀 Project 2: Real-Time Pothole Detection Using Machine Learning 
 
@@ -62,12 +62,11 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 
 ## 🛠️ Technologies I Work With
 
-- ![TensorFlow Logo](images/tensorflow_logo.png) TensorFlow
-- ![PyTorch Logo](images/pytorch_logo.png) PyTorch
-- ![pandas Logo](images/pandas_logo.png) pandas
-- ![scikit-learn Logo](images/scikit_learn_logo.png) scikit-learn
-- ![Tableau Logo](images/tableau_logo.png) Tableau
-- ![Power BI Logo](images/power_bi_logo.png) Power BI
+- <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="20" height="20"/> PyTorch
+- <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20"/> TensorFlow
+
+- <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="20" height="20"/> Tableau
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="20" height="20"/> Power BI
 
 ## 🎓 Certifications That Shine Bright
 
@@ -81,15 +80,10 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tanishq-sharma-ts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kjcvndjkn" height="30" width="40" /></a>
-<a href="https://kaggle.com/hjbcsdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hjbcsdv" height="30" width="40" /></a>
-</p>
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email Address]
+
 
 Embark on this data journey with me, and let's uncover the secrets of the data universe together and solve some real-world problems.
 
-
-<h3 align="left">Connect with me:</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
