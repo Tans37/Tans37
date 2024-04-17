@@ -20,8 +20,8 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 
 - **Mission:** Develop a Real-Time Pothole Detection system using a camera, utilizing Machine Learning to improve road safety and facilitate maintenance.
 - **Methodology:** - Compiled an extensive pothole image dataset using data augmentation techniques.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Trained RCNN,YOLOv5,6,7 variants, achieving 97% precision and 0.85 mAP@0.5 with inference time of 13ms.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Deployed models on NVIDIA Jetson Xavier NX, Nano equipped with a camera for a portable pothole detection device.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Trained RCNN, YOLOv5,6,7 variants, achieving 97% precision and 0.85 mAP@0.5 with inference time of 13ms.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Deployed models on NVIDIA Jetson Xavier NX, Nano with a camera for a portable pothole detection device.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Implemented a system to upload pothole images and GPS coordinates of detected pothole to a cloud database.
 - **Impact:** Provides a efficient solution for identifying potholes, enabling timely maintenance and potentially reducing road hazards.
 
