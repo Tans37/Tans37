@@ -19,11 +19,11 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 ### 🚀 Project 2: Real-Time Pothole Detection Using Machine Learning 
 
 - **Mission:** Develop a Real-Time Pothole Detection system using a camera, utilizing Machine Learning to improve road safety and facilitate maintenance.
-- **Methodology:** - Compiled an extensive pothole image dataset using data augmentation techniques.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Trained RCNN and YOLO variants, achieving 97% precision and 0.85 mAP@0.5 with 13 ms per frame inference time.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Deployed models on NVIDIA Jetson devices for portable, real-time pothole detection.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Implemented a system to upload pothole images and GPS coordinates of detected pothole to a cloud database for road maintenance authorities.
-- **Key Discoveries:** [Highlight the most exciting findings or outcomes].
+- **Methodology:** - Compiled an extensive pothole image dataset using data augmentation techniques.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Trained RCNN and YOLO variants, achieving 97% precision and 0.85 mAP@0.5 with 13 ms per frame inference time.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Deployed models on NVIDIA Jetson Xavier NX and Nano equipped with a camera for a portable pothole detection device.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Implemented a system to upload pothole images and GPS coordinates of detected pothole to a cloud database.
+- **Impact:** Provides a efficient solution for identifying potholes, enabling timely maintenance and potentially reducing road hazards.
 
 ### 📈 Project 3: Hyperspectral Image Classification of Soil Samples
 
