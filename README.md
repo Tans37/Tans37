@@ -33,8 +33,9 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 
 ### ✨ Project 4: Sentiment Analysis: Analyzing News Headlines using LLMs
 
-- **Mission:** [Brief description of the project's objective and its impact].
-- **Tools of the Trade:** [List of tools and libraries that powered the project's success].
+- **Mission:** To find a general perception of media towards AI using sentiment analysis.
+- **Methodology:** Utilized LLMs such as RoBERTa to fine tune the model using News headlines data.
+Compared the results with lexicons such as Vader and aFinn. [List of tools and libraries that powered the project's success].
 - **Key Discoveries:** [Highlight the most exciting findings or outcomes].
 
 ### 🛠️ Project 5: Regression Analysis: Parkinson's Disease Progression and Severity Prediction
