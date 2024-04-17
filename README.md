@@ -26,7 +26,7 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 - **Tools of the Trade:** [List of tools and libraries that powered the project's success].
 - **Key Discoveries:** [Highlight the most exciting findings or outcomes].
 
-### ✨ Project 4: Sentiment Analysis: Analyzing News Headlines to predict
+### ✨ Project 4: Sentiment Analysis: Analyzing News Headlines using LLMs
 
 - **Mission:** [Brief description of the project's objective and its impact].
 - **Tools of the Trade:** [List of tools and libraries that powered the project's success].
@@ -38,17 +38,15 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 - **Tools of the Trade:** [List of tools and libraries that powered the project's success].
 - **Key Discoveries:** [Highlight the most exciting findings or outcomes].
 
-### 🔍 Project 6: Real-Time Flying Object Detection, Tracking and Trajectory Prediction. 
+### 🔍 Project 6: Flying Object Detection, Tracking and Trajectory Prediction in Real Time.
 
 - **Mission:** [Brief description of the project's objective and its impact].
 - **Tools of the Trade:** [List of tools and libraries that powered the project's success].
 - **Key Discoveries:** [Highlight the most exciting findings or outcomes].
 
-### 🎯 Project 7: [Project Name]
+### 🎯 Project 7: Real-Time Cryptocurrency Insights: Automated ETL for Dynamic Reporting
 
-- **Mission:** [Brief description of the project's objective and its impact].
-- **Tools of the Trade:** [List of tools and libraries that powered the project's success].
-- **Key Discoveries:** [Highlight the most exciting findings or outcomes].
+- **Mission:** This project focuses on creating an automated ETL pipeline to extract, transform, and load real-time cryptocurrency data into a reporting system. The pipeline collects data from multiple cryptocurrency exchanges and sources, transforms it into a unified format, and loads it into a database for analysis and reporting. The goal is to provide users with up-to-date insights into cryptocurrency prices, trading volumes, and market trends.
 
 ## 💡 Skills That Illuminate My Path
 
