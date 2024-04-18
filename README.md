@@ -27,8 +27,11 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 
 ### 📈 Project 3: Hyperspectral Image Classification of Soil Samples
 
-- **Mission:** [Brief description of the project's objective and its impact].
-- **Tools of the Trade:** [List of tools and libraries that powered the project's success].
+- **Mission:** To accurately categorize hyperspectral images of soil samples into different types (red, black, and yellow soil).
+- **Methodology:** - Processed images data with 168 hyperspectral bands(feautures) for classification.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Utilized Principal Component Analysis (PCA) to reduce dimensionality and extract essential features from the dataset.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Employed Support Vector Machines (SVM), Random Forests, and neural networks to classify hyperspectral images, achieving 95% accuracy.
+
 - **Key Discoveries:** [Highlight the most exciting findings or outcomes].
 
 ### ✨ Project 4: Sentiment Analysis: Analyzing News Headlines using LLMs
