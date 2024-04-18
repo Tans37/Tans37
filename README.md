@@ -83,8 +83,9 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 <p align="left">
 <a href="https://www.linkedin.com/in/tanishq-sharma-ts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kjcvndjkn" height="30" width="40" /></a>
 
-
-Embark on this data journey with me, and let's uncover the secrets of the data universe together and solve some real-world problems.
+<br>
+<br>
+**Embark on this data journey with me, and let's uncover the secrets of the data universe together and solve some real-world problems** 
 
 
 
