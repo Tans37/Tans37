@@ -12,10 +12,9 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 
 - **Mission:** To create an automated ETL pipeline to extract, transform, and load real-time cryptocurrency data into a reporting system.
 - **Methodology:** - Extraction: Utilize Apache Kafka for real-time data streaming from multiple cryptocurrency exchanges and sources..<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Transformation: Used Apache Spark for data transformation, including standardizing and unifying the extracted data into a consistent format suitable for analysis.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Loading: Loaded the transformed data into Apache Cassandra for storage and analysis.
-- **Impact**: Provides insights about factors influencing article popularity, aiding content creators and marketers in optimizing their strategies for maximum engagement.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Transformation: Used Apache Spark for data transformation, including standardizing and unifying the extracted data into a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; consistent format suitable for analysis.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Loading: Loaded the transformed data into Apache Cassandra for storage and analysis.
+- **Impact**: Provides users with timely and accurate insights into cryptocurrency prices, trading volumes, and market trends. Enables informed decision-making for cryptocurrency traders, investors, and analysts.
 
 ### 📈 Project 2: Predictive Modeling for Online Article Popularity 
 
