@@ -74,13 +74,10 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 - <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="20" height="20"/> Tableau
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="20" height="20"/> Power BI
 
-## 🎓 Certifications That Shine Bright
-
-- [Certification Name], [Issuing Organization], [Year]
-
 ## 📚 Education That Laid the Foundation
 
-- [Degree], [Major], [University], [Year]
+- Master of Science , Data Science, Rutgers University- New Brunswick, 2023-2025
+- Bachelor of Engineering, Computer Science & Engineering, Shri Ramdeobaba Colllege of Enginnering and Management, 2019-2023
 
 ## 📧 Connect With Me
 
