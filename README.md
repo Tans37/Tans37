@@ -10,9 +10,9 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 
 ### 🌟 Project 1: Real-Time Cryptocurrency Insights: Automated ETL for Dynamic Reporting
 
-- **Mission:** To create an automated ETL pipeline to extract, transform, and load real-time cryptocurrency data into a reporting system.
-- **Methodology:** - Extraction: Utilize Apache Kafka for real-time data streaming from multiple cryptocurrency exchanges and sources..<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Transformation: Used Apache Spark for data transformation, including standardizing and unifying the extracted data into a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; consistent format suitable for analysis.<br>
+- **Mission:** To create an automated ETL pipeline to extract, transform, and load cryptocurrency data into a reporting system.
+- **Methodology:** - Extraction: Utilized Apache Kafka for real-time data streaming from cryptocurrency exchanges and sources.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Transformation: Used Apache Spark for data transformation, including standardizing and unifying the extracted &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; data into a consistent format suitable for analysis.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Loading: Loaded the transformed data into Apache Cassandra for storage and analysis.
 - **Impact**: Provides users with timely and accurate insights into cryptocurrency prices, trading volumes, and market trends. Enables informed decision-making for cryptocurrency traders, investors, and analysts.
 
@@ -27,8 +27,8 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 ### ✨ Project 3: Sentiment Analysis: Analyzing News Headlines using LLMs
 
 - **Mission:** To find a general perception of media towards AI using sentiment analysis.
-- **Methodology:** - Utilized LLMs such as RoBERTa, BERT to analyse sentiment. Used the to News headlines dataset to fine tune the model.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Compared the results with lexicons such as Vader and aFinn, achieving an accuracy of 93% using finetuned RoBERTa.
+- **Methodology:** - Utilized LLMs such as RoBERTa to analyse sentiment. Used the to News headlines dataset to fine tune the model.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Compared the results with lexicons like Vader and aFinn, achieved an accuracy of 93% using finetuned RoBERTa.
 - **Impact:** Provides actionable insights by analyzing news headline sentiment, empowering businesses, governments, and media to make  informed decisions and understand public sentiment more deeply.
 
 ### 🚀 Project 4: Real-Time Pothole Detection Using Machine Learning 
@@ -43,8 +43,8 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 ### 🛠️ Project 5: Regression Analysis: Parkinson's Disease Progression and Severity Prediction
 
 - **Mission:** To develop predictive models to forecast the severity and progression of Parkinson's disease.
-- **Methodology:** - Utilized the Oxford Parkinson's Disease Telemonitoring Dataset, containing various features related to Parkinson's disease symptoms and progression.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Implemented Principal Components Regression (PCR) to reduce the dimensionality of the dataset and identify important features.<br>
+- **Methodology:** - Utilized the Oxford Parkinson's Disease Telemonitoring Dataset, containing various features related to Parkinson's &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; disease symptoms and progression.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Implemented Principal Components Regression (PCR) to reduce the dimensionality of the dataset.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Employed Partial Least Squares Regression (PLSR) to build predictive models based on the reduced feature set.
 - **Impact:** Provided insights into the factors influencing the severity and progression of Parkinson's disease.
 
@@ -52,7 +52,7 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 
 - **Mission:** To accurately categorize hyperspectral images of soil samples into different types (red, black, and yellow soil).
 - **Methodology:** - Processed images data with 168 hyperspectral bands(feautures) for classification.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Utilized Principal Component Analysis (PCA) to reduce dimensionality and extract essential features from the dataset.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Utilized Principal Component Analysis,reducing dimensionality and extract essential features from the dataset.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Employed Support Vector Machines (SVM), Random Forests, and CNN for classification, achieving 95% accuracy.
 
 ## 💡 Skills That Illuminate My Path
