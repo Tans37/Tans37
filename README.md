@@ -82,8 +82,7 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tanishq-sharma-ts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
-
-<a href="mailto:tanishqsharma1.ts@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png" alt="E-Mail" height="30" width="40" /></a>
+<a href="mailto:tanishqsharma1.ts@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png" alt="E-Mail" height="35" width="40" /></a>
 
 <br>
 <br>
