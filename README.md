@@ -16,7 +16,16 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Loading: Loaded the transformed data into Apache Cassandra for storage and analysis.
 - **Impact**: Provides users with timely and accurate insights into cryptocurrency prices, trading volumes, and market trends. Enables informed decision-making for cryptocurrency traders, investors, and analysts.
 
-### 📈 Project 2: Predictive Modeling for Online Article Popularity 
+### 🛠️ Project 2: Twitter Data Analytics Platform: Caching, NLP, and Hybrid Databases for Large-Scale Social Media Analysis
+
+- **Mission:** To create a search application for tweets like data utilizing cloud databases and incororating advanceddata querying.
+- **Methodology:** - Developed a search application for querying and analyzing a massive 137.9K tweet Twitter dataset, leveraging a hybrid PostgreSQL and MongoDB database approach.
+- Implemented caching with LRU eviction and checkpointing, reducing query latencies by up to 4 seconds for frequently accessed data.
+- Incorporated NLP techniques like language detection, translation, text preprocessing, and sentiment analysis, enabling content-aware searches and surfacing engaging tweets.
+- Delivered a feature-rich application with targeted searches, relevance ranking based on engagement metrics, and a user-friendly interface for exploring the large-scale social media dataset.
+- **Impact**: Developed a high-performance search application that leveraged caching, hybrid databases, and NLP techniques to enable efficient querying, in-depth analysis, and content-driven exploration of a massive 137.9K tweet Twitter dataset, delivering valuable insights to the client.
+
+### 📈 Project 3: Predictive Modeling for Online Article Popularity 
 
 - **Mission:** Predicting the number of times an article would be shared(Popularity).
 - **Methodology:** - Handled a Poisson-distributed target variable in a dataset of 450,000 rows and 60 features.<br>
@@ -24,14 +33,14 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Utilized Bootsrap Hypothesis testing to ensure robustness of Neural Network model, achieving an MSE of 0.35.
 - **Impact**: Provides insights about factors influencing article popularity, aiding content creators and marketers in optimizing their strategies for maximum engagement.
 
-### ✨ Project 3: Sentiment Analysis: Analyzing News Headlines using LLMs
+### ✨ Project 4: Sentiment Analysis: Analyzing News Headlines using LLMs
 
 - **Mission:** To find a general perception of media towards AI using sentiment analysis.
 - **Methodology:** - Utilized LLMs such as RoBERTa to analyse sentiment. Used the to News headlines dataset to fine tune the model.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Compared the results with lexicons like Vader and aFinn, achieved an accuracy of 93% using finetuned RoBERTa.
 - **Impact:** Provides actionable insights by analyzing news headline sentiment, empowering businesses, governments, and media to make  informed decisions and understand public sentiment more deeply.
 
-### 🚀 Project 4: Real-Time Pothole Detection Using Machine Learning 
+### 🚀 Project 5: Real-Time Pothole Detection Using Machine Learning 
 
 - **Mission:** Develop a Real-Time Pothole Detection system using a camera, utilizing Machine Learning to improve road safety and facilitate maintenance.
 - **Methodology:** - Compiled an extensive pothole image dataset using data augmentation techniques.<br>
@@ -40,7 +49,7 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Implemented a system to upload pothole images and GPS coordinates of detected pothole to a cloud database.
 - **Impact:** Provides a efficient solution for identifying potholes, enabling timely maintenance and potentially reducing road hazards.
 
-### 🛠️ Project 5: Regression Analysis: Parkinson's Disease Progression and Severity Prediction
+### 🛠️ Project 6: Regression Analysis: Parkinson's Disease Progression and Severity Prediction
 
 - **Mission:** To develop predictive models to forecast the severity and progression of Parkinson's disease.
 - **Methodology:** - Utilized the Oxford Parkinson's Disease Telemonitoring Dataset, containing various features related to Parkinson's &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; disease symptoms and progression.<br>
@@ -48,7 +57,7 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Employed Partial Least Squares Regression (PLSR) to build predictive models based on the reduced feature set.
 - **Impact:** Provided insights into the factors influencing the severity and progression of Parkinson's disease.
 
-### 📈 Project 6: Hyperspectral Image Classification of Soil Samples
+### 📈 Project 7: Hyperspectral Image Classification of Soil Samples
 
 - **Mission:** To accurately categorize hyperspectral images of soil samples into different types (red, black, and yellow soil).
 - **Methodology:** - Processed images data with 168 hyperspectral bands(feautures) for classification.<br>
