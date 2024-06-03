@@ -19,9 +19,9 @@ Driven by an insatiable curiosity, I actively seek opportunities to leverage my 
 ### 🛠️ Project 2: Twitter Data Analytics Platform: Caching, NLP, and Hybrid Databases for Large-Scale Social Media Analysis
 
 - **Mission:** To create a search application for tweets like data utilizing cloud databases and incororating advanceddata querying.
-- **Methodology:** - Developed a search application for querying and analyzing a massive 137.9K tweet Twitter dataset, leveraging a hybrid PostgreSQL and MongoDB database approach.
-- Implemented caching with LRU eviction and checkpointing, reducing query latencies by up to 4 seconds for frequently accessed data.
-- Incorporated NLP techniques like language detection, translation, text preprocessing, and sentiment analysis, enabling content-aware searches and surfacing engaging tweets.
+- **Methodology:** - Developed a search application for querying and analyzing a massive 137.9K tweet Twitter dataset, leveraging a hybrid PostgreSQL and MongoDB database approach.<br>
+- Implemented caching with LRU eviction and checkpointing, reducing query latencies by up to 4 seconds for frequently accessed data.<br>
+- Incorporated NLP techniques like language detection, translation, text preprocessing, and sentiment analysis, enabling content-aware searches and surfacing engaging tweets.<br>
 - Delivered a feature-rich application with targeted searches, relevance ranking based on engagement metrics, and a user-friendly interface for exploring the large-scale social media dataset.
 - **Impact**: Developed a high-performance search application that leveraged caching, hybrid databases, and NLP techniques to enable efficient querying, in-depth analysis, and content-driven exploration of a massive 137.9K tweet Twitter dataset, delivering valuable insights to the client.
 
