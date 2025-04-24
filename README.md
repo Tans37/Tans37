@@ -18,7 +18,7 @@ I'm passionate about building intelligent systems that bridge the gap between re
 - 📍 Supports **automated reporting** with GPS-coordinates, facilitating proactive road maintenance and infrastructure planning.  
 - 📄 **Patent granted** for the system’s methodology, covering model architecture, detection logic, and deployment pipeline. 
 - 🏅 Demonstrates a tangible example of **AI for social good**, improving safety and enabling preventive maintenance for road infrastructure.
-[Patent](https://iprsearch.ipindia.gov.in/RQStatus/PatentCertificatePDF.aspx?AppNo=MjAyMjIxMDczMjgy&FullPath=LVBhdGVudENlcnRpZmljYXRlMTQtMDItMjAyNS5wZGY=)
+ [Patent](https://iprsearch.ipindia.gov.in/RQStatus/PatentCertificatePDF.aspx?AppNo=MjAyMjIxMDczMjgy&FullPath=LVBhdGVudENlcnRpZmljYXRlMTQtMDItMjAyNS5wZGY=)
 ---
 
 ## 🧑‍🔬 Research Experience (Internship Work)  
