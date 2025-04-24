@@ -9,6 +9,29 @@ I'm passionate about building intelligent systems that bridge the gap between re
 
 ---
 
+## ⚡ Patented Work  
+
+### 🚘 Real-Time Pothole Detection Using Computer Vision (Patent Granted 🇮🇳)  
+- 🛣️ Designed a **real-time pothole detection system**(97% precision) using **CNN-based computer vision**, integrated with **GPS tagging** for precise location mapping of road defects.  
+- 🚀 Deployed on **NVIDIA Jetson Xavier NX** for efficient edge inference with low latency(13ms/frame), eliminating the need for cloud processing.  
+- 📸 Enabled robust detection under varying lighting and road conditions through **data augmentation and transfer learning**.  
+- 📍 Supports **automated reporting** with GPS-coordinates, facilitating proactive road maintenance and infrastructure planning.  
+- 📄 **Patent granted** for the system’s methodology, covering model architecture, detection logic, and deployment pipeline. 
+- 🏅 Demonstrates a tangible example of **AI for social good**, improving safety and enabling preventive maintenance for road infrastructure.
+  
+[Patent](https://iprsearch.ipindia.gov.in/RQStatus/PatentCertificatePDF.aspx?AppNo=MjAyMjIxMDczMjgy&FullPath=LVBhdGVudENlcnRpZmljYXRlMTQtMDItMjAyNS5wZGY=)
+---
+
+## 🧑‍🔬 Research Experience (Internship Work)  
+
+### 🚀 Real-Time Object Tracking and Trajectory Prediction (Research Internship - Machine Learning)  
+- 🛰️ Built a hybrid **Conv1D-RNN model** along with YOLO for real-time object detection, tracking, and trajectory forecasting.  
+- ⚡ Achieved **5 ms/frame inference** on **NVIDIA Jetson Xavier NX** for edge deployment.  
+- 📉 Conducted performance benchmarking against **Kalman Filter, Particle Filter, LSTM, and DeepSORT**, achieving **20% RMSE reduction**.  
+- 🏆 Focused on sequential modeling for flying objects (airplanes, UAVs) in real-time environments.  
+
+---
+
 ## 📌 Featured Projects  
 
  ### 🖼️ Multimodal Image Captioning with EfficientNet & Transformer-based Decoder  
@@ -41,26 +64,15 @@ I'm passionate about building intelligent systems that bridge the gap between re
 - 📂 [Project Repository](https://github.com/Tans37/Advanced-Search-Application-for-Analyzing-Twitter-Data)  
 ---
 
-## 🧑‍🔬 Research Experience (Internship Work)  
-
-### 🚀 Real-Time Object Tracking and Trajectory Prediction (Research Internship - Machine Learning)  
-- 🛰️ Built a hybrid **Conv1D-RNN model** along with YOLO for real-time object detection, tracking, and trajectory forecasting.  
-- ⚡ Achieved **5 ms/frame inference** on **NVIDIA Jetson Xavier NX** for edge deployment.  
-- 📉 Conducted performance benchmarking against **Kalman Filter, Particle Filter, LSTM, and DeepSORT**, achieving **20% RMSE reduction**.  
-- 🏆 Focused on sequential modeling for flying objects (airplanes, UAVs) in real-time environments.  
+### 📰 Forecasting Article Popularity  
+- 📈 Engineered a predictive model to estimate **news article popularity** using **AdaBoost**, **XGBoost**, and **Artificial Neural Networks (ANN)**.  
+- 📊 Analyzed a large dataset of **450K+ rows and 60 features**, with the target variable (article shares) following a **Poisson distribution**.  
+- 🛠️ Applied **advanced feature engineering**, including log transformations and regularization techniques to handle skewed distributions and improve model robustness.  
+- 🧠 Optimized the neural network architecture to align with the Poisson-distributed target, achieving an **MSE of 0.35**, validated through **bootstrap hypothesis testing**.  
+- 🏆 Compared performance across models and validated findings using rigorous statistical testing and error analysis.  
+- 📂 [Project Repository](https://github.com/Tans37/Forecasting-Article-Popularity)  
 
 ---
-
-## ⚡ Patented Work  
-
-### 🚘 Real-Time Pothole Detection Using Computer Vision (Patent Granted 🇮🇳)  
-- 🛣️ Developed a **computer vision-based pothole detection system** capable of real-time road surface monitoring.  
-- 🚀 Deployed the model on **NVIDIA Jetson Xavier NX** for **edge inference**, enabling fast and efficient on-device processing.  
-- 📄 Granted a **patent** for the system's design and deployment methodology.  
-- 🛠️ Utilized data augmentation and transfer learning to improve detection accuracy under varying lighting and road conditions.  
-[Patent](https://iprsearch.ipindia.gov.in/RQStatus/PatentCertificatePDF.aspx?AppNo=MjAyMjIxMDczMjgy&FullPath=LVBhdGVudENlcnRpZmljYXRlMTQtMDItMjAyNS5wZGY=)
----
-
 
 ## 🛠️ Technologies & Tools  
 `Python` | `PyTorch` | `TensorFlow` | `Apache Kafka` | `Apache Spark` | `PostgreSQL` | `MongoDB` | `NVIDIA Jetson` | `Transformers` | `LLMs` | `Computer Vision` | `NLP` | `RAG` | `Streamlit` | `Docker` | `Git`  
