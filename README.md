@@ -22,7 +22,24 @@ I'm passionate about building intelligent systems that bridge the gap between re
 
 ---
 
-## 🧑‍🔬 Research Experience (Internship Work)  
+## 🧑‍🔬 Work Experience  
+### 🧬 **CLD Clone Screening Simulation Dashboard** (2/2025 – 5/2025)(Brystol Myers Squibb and Rutgers University)
+_**Python • Streamlit • Monte Carlo Simulation • Biotech Analytics**_
+
+> Built a powerful simulation tool for Cell Line Development (CLD) to help scientists estimate the probability that selected clones fall within the top X% performers — blending statistical modeling with interactive visual analytics.
+
+- 📈 **Monte Carlo Simulation**: Estimates clone selection success across multi-step workflows using real or synthetic assay data.
+- ⚙️ **Flexible Modeling**: Supports both **LogNormal (parametric)** and **KDE (non-parametric)** distribution fitting.
+- 🔄 **Correlation-Aware Logic**: Simulates outcomes under varying assay step correlations — a critical CLD factor.
+- 🖥️ **Interactive Streamlit Dashboard**:
+  - Excel upload with dynamic filtering
+  - Assay distribution plots (real vs synthetic)
+  - Clone success histograms & probability curves
+- 🚀 **Fast & Secure**: Optimized with Streamlit caching (~10× speedup), runs locally to maintain data confidentiality.
+- 🤖 **Future-Ready**: Architected for local/API-based LLM integration to explain plots and results interactively.
+- 📂 [Project Repository](https://github.com/Tans37/CLD-Cell-Line-Development-Clone-Simulation-Dashboard)
+
+
 
 ### 🚀 Real-Time Object Tracking and Trajectory Prediction (Research Internship - Machine Learning)  
 - 🛰️ Built a hybrid **Conv1D-RNN model** along with YOLO for real-time object detection, tracking, and trajectory forecasting.  
