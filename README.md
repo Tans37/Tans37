@@ -23,7 +23,7 @@ I'm passionate about building intelligent systems that bridge the gap between re
 ---
 
 ## 🧑‍🔬 Work Experience  
-### 🧬 **CLD Clone Screening Simulation Dashboard** (2/2025 – 5/2025)(Brystol Myers Squibb and Rutgers University)
+### 🧬 **CLD Clone Screening Simulation Dashboard** (1/2025 – 5/2025)(Brystol Myers Squibb and Rutgers University)
 _**Python • Streamlit • Monte Carlo Simulation • Biotech Analytics**_
 
 > Built a powerful simulation tool for Cell Line Development (CLD) to help scientists estimate the probability that selected clones fall within the top X% performers — blending statistical modeling with interactive visual analytics.
