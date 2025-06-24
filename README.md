@@ -66,8 +66,7 @@ I'm passionate about building intelligent systems that bridge the gap between re
  ### 🖼️ Multimodal Image Captioning with EfficientNet & Transformer-based Decoder  
 - 🏞️ Developed an image captioning system using **EfficientNet Encoder + T5-Small Decoder**.  
 - 📈 Trained on **Flickr8k / Flickr30k** datasets, achieving strong BLEU-4 performance.  
-- 💾 Supports image summarization and question-answering over generated captions.  
-- 📂 [Project Repository](https://github.com/Tans37/Multimodal-Image-Captioning)  
+- 💾 Supports image summarization and question-answering over generated captions. [Project Repository](https://github.com/Tans37/Multimodal-Image-Captioning)  
 
 
 ### 🎥 Advanced Movie Recommendation System Using RAG and Generative QA  
@@ -79,15 +78,13 @@ I'm passionate about building intelligent systems that bridge the gap between re
 ### 🏆 Real-Time Cryptocurrency Insights: Automated ETL for Dynamic Reporting  
 - 📊 Architected a distributed ETL pipeline using **Apache Kafka** and **Apache Spark** for real-time cryptocurrency data ingestion and analysis.  
 - 🔮 Integrated **LSTM-based forecasting** with dynamic visualizations for five major cryptocurrencies (**BTC, ETH, DOGE, XRP, SOL**).  
-- 🧠 Incorporated **sentiment analysis** from live news feeds to enrich predictive modeling.  
-- 🌐 [Project Repository](https://github.com/Tans37/Real-Time-Cryptocurrency-Insights-Automated-ETL-for-Dynamic-Reporting)
+- 🧠 Incorporated **sentiment analysis** from live news feeds to enrich predictive modeling. [Project Repository](https://github.com/Tans37/Real-Time-Cryptocurrency-Insights-Automated-ETL-for-Dynamic-Reporting)
 
 
 ## 🐦 Social Media Analytics: Advanced Twitter Search Engine  
 - 💬 Engineered a scalable search engine on **150k+ tweets** using **PostgreSQL + MongoDB hybrid database**.  
 - 🌍 Integrated **language detection**, **machine translation**, and **sentiment analysis** for content-aware search.  
-- ⚡ Reduced query latency by up to **4 seconds** via **LRU caching**.
-- 📂 [Project Repository](https://github.com/Tans37/Advanced-Search-Application-for-Analyzing-Twitter-Data)
+- ⚡ Reduced query latency by up to **4 seconds** via **LRU caching**. [Project Repository](https://github.com/Tans37/Advanced-Search-Application-for-Analyzing-Twitter-Data)
 
 
 ### 📰 Forecasting Article Popularity  
@@ -95,8 +92,7 @@ I'm passionate about building intelligent systems that bridge the gap between re
 - 📊 Analyzed a large dataset of **450K+ rows and 60 features**, with the target variable (article shares) following a **Poisson distribution**.  
 - 🛠️ Applied **advanced feature engineering**, including log transformations and regularization techniques to handle skewed distributions and improve model robustness.  
 - 🧠 Optimized the neural network architecture to align with the Poisson-distributed target, achieving an **MSE of 0.35**, validated through **bootstrap hypothesis testing**.  
-- 🏆 Compared performance across models and validated findings using rigorous statistical testing and error analysis.  
-- 📂 [Project Repository](https://github.com/Tans37/Forecasting-Article-Popularity)  
+- 🏆 Compared performance across models and validated findings using rigorous statistical testing and error analysis. [Project Repository](https://github.com/Tans37/Forecasting-Article-Popularity)  
 
 ---
 
