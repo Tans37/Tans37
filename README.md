@@ -25,13 +25,12 @@ I'm passionate about building intelligent systems that bridge the gap between re
 ## 🧑‍🔬 Work Experience  
 ### 🧬 CLD Clone Screening Simulation Dashboard (1/2025 – 5/2025)  
 **Brystol Myers Squibb & Rutgers University** (competition)
-🧠 Built a statistical simulation tool to estimate the probability that selected clones fall within the top X% performers in CLD workflows.  
-📈 Used Monte Carlo simulation over synthetic/real assay data to model selection outcomes across multi-step processes.  
-🔁 Incorporated correlation-aware logic to simulate realistic assay step dependencies and achieved ~10× speedup by incorporating caching.  
-🖥️ Developed an interactive Streamlit dashboard for uploading Excel data, filtering, and visualizing assay distributions, clone probabilities, and histograms.  
-🤖 Architected for future LLM integration (local/API) to provide interactive, explainable results.  
+- 🧠 Built a statistical simulation tool to estimate the probability that selected clones fall within the top X% performers in CLD workflows.  
+- 📈 Used Monte Carlo simulation over synthetic/real assay data to model selection outcomes across multi-step processes.  
+- 🔁 Incorporated correlation-aware logic to simulate realistic assay step dependencies and achieved ~10× speedup by incorporating caching.  
+- 🖥️ Developed an interactive Streamlit dashboard for uploading Excel data, filtering, and visualizing assay distributions, clone probabilities, and histograms.  
+- 🤖 Architected for future LLM integration (local/API) to provide interactive, explainable results.  
 🔗 [Project Repository](https://github.com/Tans37/CLD-Cell-Line-Development-Clone-Simulation-Dashboard)
-
 
 
 ### 🚀 Real-Time Object Tracking and Trajectory Prediction (Research Internship - Machine Learning) (1/2023 - 6/2023)
@@ -46,24 +45,23 @@ I'm passionate about building intelligent systems that bridge the gap between re
 
 ### 🥉 LostSight – Intelligent Surveillance for Lost Object Detection  
 **3rd Place – [Open-Source NYC Computer Vision Hackathon with Moondream](https://nyc.aitinkerers.org/p/open-source-nyc-computer-vision-hackathon)**  
-🧠 Built a real-time AI system to detect, track, and identify unattended items in public spaces using the Moondream visual foundation model.
-🌀 Designed a custom IoU-based object tracker with no external tracking libraries, enabling lightweight and interpretable ID assignment.
-🗣️ Leveraged Moondream's Vision language model for multimodal reasoning and image captioning to verify lost status and log item details in a searchable CSV.
-⚡ Optimized for edge deployment with frame skipping, API caching, and fast video I/O for seamless real-time performance.
+- 🧠 Built a real-time AI system to detect, track, and identify unattended items in public spaces using the Moondream visual foundation model.
+- 🌀 Designed a custom IoU-based object tracker with no external tracking libraries, enabling lightweight and interpretable ID assignment.
+- 🗣️ Leveraged Moondream's Vision language model for multimodal reasoning and image captioning to verify lost status and log item details in a searchable CSV.
+- ⚡ Optimized for edge deployment with frame skipping, API caching, and fast video I/O for seamless real-time performance.
 🔗 [GitHub Repo](https://github.com/ArvindPadala/lost-and-nycd)
 
----
 
 ### 🤖 AgroSynth-RAG – AI Agent for Pest Outbreak Prediction and Weather-Aware Farming
 **[Reboot the Earth 2025 Hackathon - New York City](https://unite.un.org/reboot)**  
-🌾 Developed an AI agent that helps farmers adapt to climate risks by predicting pest outbreaks and answering context-aware queries.  
-📡 Integrated Open-Meteo API for real-time forecasts; triggered alerts for rainfall, high winds, frost, and extreme heat.  
-🧠 Used RAG (Retrieval-Augmented Generation) not only for QA, but also for pest outbreak prediction by interpreting weather patterns against a knowledge base.  
-🗣️ Enabled dynamic, location-specific queries (e.g., “Will these conditions cause aphids?”) using curated NY-state pest articles.  
-🗺️ Map-based UI lets users click on their county to receive alerts, summaries, and intelligent insights.  
-💡 Additional features include daily weather summaries, modular backend, and extensible design for future alert modes (e.g., SMS, multilingual).  
+- 🌾 Developed an AI agent that helps farmers adapt to climate risks by predicting pest outbreaks and answering context-aware queries.  
+- 📡 Integrated Open-Meteo API for real-time forecasts; triggered alerts for rainfall, high winds, frost, and extreme heat.  
+- 🧠 Used RAG (Retrieval-Augmented Generation) not only for QA, but also for pest outbreak prediction by interpreting weather patterns against a knowledge base.  
+- 🗣️ Enabled dynamic, location-specific queries (e.g., “Will these conditions cause aphids?”) using curated NY-state pest articles.  
+- 💡 Additional features include daily weather summaries, modular backend, and extensible design for future alert modes (e.g., SMS, multilingual).  
 🔗 [AgroSynth-RAG Backend](https://github.com/Tans37/AgroSynth-RAG) · [Frontend Interface](https://github.com/Tans37/AgroSynth)
 
+---
 
 ## 📌 Featured Projects  
 
@@ -73,14 +71,12 @@ I'm passionate about building intelligent systems that bridge the gap between re
 - 💾 Supports image summarization and question-answering over generated captions.  
 - 📂 [Project Repository](https://github.com/Tans37/Multimodal-Image-Captioning)  
 
----
 
 ### 🎥 Advanced Movie Recommendation System Using RAG and Generative QA  
 - 🤖 Fine-tuned **BERT-based genre classifier** (F1-score: 0.92) on a dataset of 43k+ movies.  
 - 🧩 Combined semantic search with **RAG (Retrieval-Augmented Generation)** using **LLaMA 3.2** for highly relevant movie suggestions.  
 - 💬 Built a **Generative QA system** to answer detailed queries about recommended movies (BLEU: 0.76).   
 
----
 
 ### 🏆 Real-Time Cryptocurrency Insights: Automated ETL for Dynamic Reporting  
 - 📊 Architected a distributed ETL pipeline using **Apache Kafka** and **Apache Spark** for real-time cryptocurrency data ingestion and analysis.  
@@ -88,14 +84,13 @@ I'm passionate about building intelligent systems that bridge the gap between re
 - 🧠 Incorporated **sentiment analysis** from live news feeds to enrich predictive modeling.  
 - 🌐 [Project Repository](https://github.com/Tans37/Real-Time-Cryptocurrency-Insights-Automated-ETL-for-Dynamic-Reporting)
 
----
 
 ## 🐦 Social Media Analytics: Advanced Twitter Search Engine  
 - 💬 Engineered a scalable search engine on **150k+ tweets** using **PostgreSQL + MongoDB hybrid database**.  
 - 🌍 Integrated **language detection**, **machine translation**, and **sentiment analysis** for content-aware search.  
 - ⚡ Reduced query latency by up to **4 seconds** via **LRU caching**.
-- 📂 [Project Repository](https://github.com/Tans37/Advanced-Search-Application-for-Analyzing-Twitter-Data)  
----
+- 📂 [Project Repository](https://github.com/Tans37/Advanced-Search-Application-for-Analyzing-Twitter-Data)
+
 
 ### 📰 Forecasting Article Popularity  
 - 📈 Engineered a predictive model to estimate **news article popularity** using **AdaBoost**, **XGBoost**, and **Artificial Neural Networks (ANN)**.  
