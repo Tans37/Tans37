@@ -23,31 +23,47 @@ I'm passionate about building intelligent systems that bridge the gap between re
 ---
 
 ## 🧑‍🔬 Work Experience  
-### 🧬 **CLD Clone Screening Simulation Dashboard** (1/2025 – 5/2025)(Brystol Myers Squibb and Rutgers University)
-_**Python • Streamlit • Monte Carlo Simulation • Biotech Analytics**_
-
-> Built a powerful simulation tool for Cell Line Development (CLD) to help scientists estimate the probability that selected clones fall within the top X% performers — blending statistical modeling with interactive visual analytics.
-
-- 📈 **Monte Carlo Simulation**: Estimates clone selection success across multi-step workflows using real or synthetic assay data.
-- ⚙️ **Flexible Modeling**: Supports both **LogNormal (parametric)** and **KDE (non-parametric)** distribution fitting.
-- 🔄 **Correlation-Aware Logic**: Simulates outcomes under varying assay step correlations — a critical CLD factor.
-- 🖥️ **Interactive Streamlit Dashboard**:
-  - Excel upload with dynamic filtering
-  - Assay distribution plots (real vs synthetic)
-  - Clone success histograms & probability curves
-- 🚀 **Fast & Secure**: Optimized with Streamlit caching (~10× speedup), runs locally to maintain data confidentiality.
-- 🤖 **Future-Ready**: Architected for local/API-based LLM integration to explain plots and results interactively.
-- 📂 [Project Repository](https://github.com/Tans37/CLD-Cell-Line-Development-Clone-Simulation-Dashboard)
+### 🧬 CLD Clone Screening Simulation Dashboard (1/2025 – 5/2025)  
+**Brystol Myers Squibb & Rutgers University** (competition)
+🧠 Built a statistical simulation tool to estimate the probability that selected clones fall within the top X% performers in CLD workflows.  
+📈 Used Monte Carlo simulation over synthetic/real assay data to model selection outcomes across multi-step processes.  
+🔁 Incorporated correlation-aware logic to simulate realistic assay step dependencies and achieved ~10× speedup by incorporating caching.  
+🖥️ Developed an interactive Streamlit dashboard for uploading Excel data, filtering, and visualizing assay distributions, clone probabilities, and histograms.  
+🤖 Architected for future LLM integration (local/API) to provide interactive, explainable results.  
+🔗 [Project Repository](https://github.com/Tans37/CLD-Cell-Line-Development-Clone-Simulation-Dashboard)
 
 
 
-### 🚀 Real-Time Object Tracking and Trajectory Prediction (Research Internship - Machine Learning)  
+### 🚀 Real-Time Object Tracking and Trajectory Prediction (Research Internship - Machine Learning) (1/2023 - 6/2023)
 - 🛰️ Built a hybrid **Conv1D-RNN model** along with YOLO for real-time object detection, tracking, and trajectory forecasting.  
 - ⚡ Achieved **5 ms/frame inference** on **NVIDIA Jetson Xavier NX** for edge deployment.  
 - 📉 Conducted performance benchmarking against **Kalman Filter, Particle Filter, LSTM, and DeepSORT**, achieving **20% RMSE reduction**.  
 - 🏆 Focused on sequential modeling for flying objects (airplanes, UAVs) in real-time environments.  
 
 ---
+
+## 🏆 Hackathon Projects
+
+### 🥉 LostSight – Intelligent Surveillance for Lost Object Detection  
+**3rd Place – [Open-Source NYC Computer Vision Hackathon with Moondream](https://nyc.aitinkerers.org/p/open-source-nyc-computer-vision-hackathon)**  
+🧠 Built a real-time AI system to detect, track, and identify unattended items in public spaces using the Moondream visual foundation model.
+🌀 Designed a custom IoU-based object tracker with no external tracking libraries, enabling lightweight and interpretable ID assignment.
+🗣️ Leveraged Moondream's Vision language model for multimodal reasoning and image captioning to verify lost status and log item details in a searchable CSV.
+⚡ Optimized for edge deployment with frame skipping, API caching, and fast video I/O for seamless real-time performance.
+🔗 [GitHub Repo](https://github.com/ArvindPadala/lost-and-nycd)
+
+---
+
+### 🤖 AgroSynth-RAG – AI Agent for Pest Outbreak Prediction and Weather-Aware Farming
+**[Reboot the Earth 2025 Hackathon - New York City](https://unite.un.org/reboot)**  
+🌾 Developed an AI agent that helps farmers adapt to climate risks by predicting pest outbreaks and answering context-aware queries.  
+📡 Integrated Open-Meteo API for real-time forecasts; triggered alerts for rainfall, high winds, frost, and extreme heat.  
+🧠 Used RAG (Retrieval-Augmented Generation) not only for QA, but also for pest outbreak prediction by interpreting weather patterns against a knowledge base.  
+🗣️ Enabled dynamic, location-specific queries (e.g., “Will these conditions cause aphids?”) using curated NY-state pest articles.  
+🗺️ Map-based UI lets users click on their county to receive alerts, summaries, and intelligent insights.  
+💡 Additional features include daily weather summaries, modular backend, and extensible design for future alert modes (e.g., SMS, multilingual).  
+🔗 [AgroSynth-RAG Backend](https://github.com/Tans37/AgroSynth-RAG) · [Frontend Interface](https://github.com/Tans37/AgroSynth)
+
 
 ## 📌 Featured Projects  
 
