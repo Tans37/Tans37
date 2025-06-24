@@ -48,12 +48,12 @@ I'm passionate about building intelligent systems that bridge the gap between re
 - 🌀 Designed a custom IoU-based object tracker with no external tracking libraries, enabling lightweight ID assignment.
 - 🗣️ Leveraged Moondream's Vision language model for multimodal reasoning and image captioning to verify lost status and log item details in a searchable CSV.
 - ⚡ Optimized for edge deployment with frame skipping, API caching, and fast video I/O for seamless real-time performance.
--🔗 [GitHub Repo](https://github.com/ArvindPadala/lost-and-nycd)
+-🔗 [Project Repository](https://github.com/ArvindPadala/lost-and-nycd)
 
 
 ### 🤖 AgroSynth-RAG – AI Agent for Pest Outbreak Prediction and Weather-Aware Farming
 **[Reboot the Earth 2025 Hackathon - New York City](https://unite.un.org/reboot)**  
-- 🌾 Developed an AI agent that helps farmers adapt to climate risks by predicting pest outbreaks and answering context-aware queries.  
+- 🌾 Developed an AI agent that helps farmers adapt to climate risks by predicting pest outbreaks, answering context-aware queries.  
 - 📡 Integrated Open-Meteo API for real-time forecasts; triggered alerts for rainfall, high winds, frost, and extreme heat.  
 - 🧠 Used RAG (Retrieval-Augmented Generation) not only for QA, but also for pest outbreak prediction by interpreting weather patterns against a knowledge base.  
 - 🗣️ Enabled dynamic, location-specific queries (e.g., “Will these conditions cause aphids?”) using curated NY-state pest articles.    
