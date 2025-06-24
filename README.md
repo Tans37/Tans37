@@ -25,9 +25,9 @@ I'm passionate about building intelligent systems that bridge the gap between re
 ## 🧑‍🔬 Work Experience  
 ### 🧬 CLD Clone Screening Simulation Dashboard (1/2025 – 5/2025)  
 **Brystol Myers Squibb & Rutgers University** (competition)
-- 🧠 Built a statistical simulation tool to estimate the probability that selected clones fall within the top X% performers in CLD workflows.  
+- 🧠 Built a statistical simulation tool to estimate the probability for clones to fall within the top X% performers in CLD workflows.  
 - 📈 Used Monte Carlo simulation over synthetic/real assay data to model selection outcomes across multi-step processes.  
-- 🔁 Incorporated correlation-aware logic to simulate realistic assay step dependencies and achieved ~10× speedup by using caching.  
+- 🔁 Incorporated correlation-aware logic to simulate realistic assay dependencies and achieved ~10× speedup by using caching.  
 - 🖥️ Developed an interactive Streamlit dashboard for uploading Excel data, filtering, and visualizing assay distributions, clone probabilities, and histograms.  
 🔗 [Project Repository](https://github.com/Tans37/CLD-Cell-Line-Development-Clone-Simulation-Dashboard)
 
@@ -44,11 +44,11 @@ I'm passionate about building intelligent systems that bridge the gap between re
 
 ### 🥉 LostSight – Intelligent Surveillance for Lost Object Detection  
 **3rd Place – [Open-Source NYC Computer Vision Hackathon with Moondream](https://nyc.aitinkerers.org/p/open-source-nyc-computer-vision-hackathon)**  
-- 🧠 Built a real-time AI system to detect, track, and identify unattended items in public spaces using the Moondream visual foundation model.
-- 🌀 Designed a custom IoU-based object tracker with no external tracking libraries, enabling lightweight and interpretable ID assignment.
+- 🧠 Built a real-time AI system to detect, track, and identify unattended items in public spaces using the Moondream's VLM.
+- 🌀 Designed a custom IoU-based object tracker with no external tracking libraries, enabling lightweight ID assignment.
 - 🗣️ Leveraged Moondream's Vision language model for multimodal reasoning and image captioning to verify lost status and log item details in a searchable CSV.
 - ⚡ Optimized for edge deployment with frame skipping, API caching, and fast video I/O for seamless real-time performance.
-🔗 [GitHub Repo](https://github.com/ArvindPadala/lost-and-nycd)
+-🔗 [GitHub Repo](https://github.com/ArvindPadala/lost-and-nycd)
 
 
 ### 🤖 AgroSynth-RAG – AI Agent for Pest Outbreak Prediction and Weather-Aware Farming
@@ -56,9 +56,8 @@ I'm passionate about building intelligent systems that bridge the gap between re
 - 🌾 Developed an AI agent that helps farmers adapt to climate risks by predicting pest outbreaks and answering context-aware queries.  
 - 📡 Integrated Open-Meteo API for real-time forecasts; triggered alerts for rainfall, high winds, frost, and extreme heat.  
 - 🧠 Used RAG (Retrieval-Augmented Generation) not only for QA, but also for pest outbreak prediction by interpreting weather patterns against a knowledge base.  
-- 🗣️ Enabled dynamic, location-specific queries (e.g., “Will these conditions cause aphids?”) using curated NY-state pest articles.  
-- 💡 Additional features include daily weather summaries, modular backend, and extensible design for future alert modes (e.g., SMS, multilingual).  
-🔗 [AgroSynth-RAG Backend](https://github.com/Tans37/AgroSynth-RAG) · [Frontend Interface](https://github.com/Tans37/AgroSynth)
+- 🗣️ Enabled dynamic, location-specific queries (e.g., “Will these conditions cause aphids?”) using curated NY-state pest articles.    
+-🔗 [AgroSynth-RAG Backend](https://github.com/Tans37/AgroSynth-RAG) · [Frontend Interface](https://github.com/Tans37/AgroSynth)
 
 ---
 
