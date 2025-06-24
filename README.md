@@ -35,7 +35,7 @@ I'm passionate about building intelligent systems that bridge the gap between re
 ### 🚀 Real-Time Object Tracking and Trajectory Prediction (Research Internship - Machine Learning) (1/2023 - 6/2023)
 - 🛰️ Built a hybrid **Conv1D-RNN model** along with YOLO for real-time object detection, tracking, and trajectory forecasting.  
 - ⚡ Achieved **5 ms/frame inference** on **NVIDIA Jetson Xavier NX** for edge deployment.  
-- 📉 Conducted performance benchmarking against **Kalman Filter, Particle Filter, LSTM, and DeepSORT**, achieving **20% RMSE reduction**.  
+- 📉 Conducted performance benchmarking against **Kalman Filter, LSTM, and DeepSORT**, achieving **20% RMSE reduction**.  
 - 🏆 Focused on sequential modeling for flying objects (airplanes, UAVs) in real-time environments.  
 
 ---
