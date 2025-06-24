@@ -28,8 +28,8 @@ I'm passionate about building intelligent systems that bridge the gap between re
 - 🧠 Built a statistical simulation tool to estimate the probability for clones to fall within the top X% performers in CLD workflows.  
 - 📈 Used Monte Carlo simulation over synthetic/real assay data to model selection outcomes across multi-step processes.  
 - 🔁 Incorporated correlation-aware logic to simulate realistic assay dependencies and achieved ~10× speedup by using caching.  
-- 🖥️ Developed an interactive Streamlit dashboard for uploading Excel data, filtering, and visualizing assay distributions, clone probabilities, and histograms.  
-🔗 [Project Repository](https://github.com/Tans37/CLD-Cell-Line-Development-Clone-Simulation-Dashboard)
+- 🖥️ Developed an interactive Streamlit dashboard for uploading Excel data, filtering, and visualizing assay distributions, clone probabilities, and histograms. [Project Repository](https://github.com/Tans37/CLD-Cell-Line-Development-Clone-Simulation-Dashboard)
+
 
 
 ### 🚀 Real-Time Object Tracking and Trajectory Prediction (Research Internship - Machine Learning) (1/2023 - 6/2023)
@@ -48,7 +48,7 @@ I'm passionate about building intelligent systems that bridge the gap between re
 - 🌀 Designed a custom IoU-based object tracker with no external tracking libraries, enabling lightweight ID assignment.
 - 🗣️ Leveraged Moondream's Vision language model for multimodal reasoning and image captioning to verify lost status and log item details in a searchable CSV.
 - ⚡ Optimized for edge deployment with frame skipping, API caching, and fast video I/O for seamless real-time performance.
--🔗 [Project Repository](https://github.com/ArvindPadala/lost-and-nycd)
+- 🔗 [Project Repository](https://github.com/ArvindPadala/lost-and-nycd)
 
 
 ### 🤖 AgroSynth-RAG – AI Agent for Pest Outbreak Prediction and Weather-Aware Farming
