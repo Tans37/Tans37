@@ -27,9 +27,8 @@ I'm passionate about building intelligent systems that bridge the gap between re
 **Brystol Myers Squibb & Rutgers University** (competition)
 - 🧠 Built a statistical simulation tool to estimate the probability that selected clones fall within the top X% performers in CLD workflows.  
 - 📈 Used Monte Carlo simulation over synthetic/real assay data to model selection outcomes across multi-step processes.  
-- 🔁 Incorporated correlation-aware logic to simulate realistic assay step dependencies and achieved ~10× speedup by incorporating caching.  
+- 🔁 Incorporated correlation-aware logic to simulate realistic assay step dependencies and achieved ~10× speedup by using caching.  
 - 🖥️ Developed an interactive Streamlit dashboard for uploading Excel data, filtering, and visualizing assay distributions, clone probabilities, and histograms.  
-- 🤖 Architected for future LLM integration (local/API) to provide interactive, explainable results.  
 🔗 [Project Repository](https://github.com/Tans37/CLD-Cell-Line-Development-Clone-Simulation-Dashboard)
 
 
