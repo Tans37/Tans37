@@ -43,7 +43,7 @@ I'm passionate about building intelligent systems that bridge the gap between re
 ## 🏆 Hackathon Projects
 
 ### 🥉 LostSight – Intelligent Surveillance for Lost Object Detection  
-**3rd Place – [Open-Source NYC Computer Vision Hackathon with Moondream](https://nyc.aitinkerers.org/p/open-source-nyc-computer-vision-hackathon)**  
+**[Open-Source NYC Computer Vision Hackathon with Moondream](https://nyc.aitinkerers.org/p/open-source-nyc-computer-vision-hackathon) Won 3rd Place**  
 - 🧠 Built a real-time AI system to detect, track, and identify unattended items in public spaces using the Moondream's VLM.
 - 🌀 Designed a custom IoU-based object tracker with no external tracking libraries, enabling lightweight ID assignment.
 - 🗣️ Leveraged Moondream's Vision language model for multimodal reasoning and image captioning to verify lost status and log item details in a searchable CSV.
