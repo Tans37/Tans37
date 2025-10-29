@@ -23,6 +23,13 @@ I'm passionate about building intelligent systems that bridge the gap between re
 ---
 
 ## 🧑‍🔬 Work Experience  
+
+### 🤖 AI Engineer Intern (9/2025 – Present)  
+**JerseySTEM, New Jersey**  
+- 💬 Deployed a RAG-based AI chatbot within a WordPress environment (serving 500+ monthly visitors) using the Google Gemini API, retrieving context from both site content and an auto-updating MySQL knowledge base.  
+- 🔌 Built a custom WordPress plugin to dynamically fetch and inject MySQL data into the chatbot’s retrieval pipeline, enabling real-time contextual grounding for user queries.  
+- 📊 Integrated Pinecone for semantic search, improving contextual relevance by ~30% and reducing retrieval latency by 25%.  
+
 ### 🧬 CLD Clone Screening Simulation Dashboard (1/2025 – 5/2025)  
 **Brystol Myers Squibb & Rutgers University** (competition)
 - 🧠 Built a statistical simulation tool to estimate the probability for clones to fall within the top X% performers in CLD workflows.  
